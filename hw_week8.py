@@ -8,7 +8,7 @@ def hw_week8():
 
   while True:
     print(
-     str(win) + ' Wins, '+ str(losses) +' Losses, ' +str(ties)+' Ties '
+     str(win) + ' Wins, '+ str(losses) +' Losses, ' +str(ties)+' Ties'
     )
 
     print('Enter your move: (r)ock (p)aper (s)cissors or (q)uit')
